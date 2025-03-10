@@ -12,4 +12,6 @@ One day, you decide to arrange all your cats in a giant circle. Initially, none 
 
 Write a program that simply outputs which cats have hats at the end.
 
-This took me 2 Hours.
+This took me a day to make.
+<br>
+![My solution](Python-exercises-from-book/cats-with-hats./catsWithHats.png)
