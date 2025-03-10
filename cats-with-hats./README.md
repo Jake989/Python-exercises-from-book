@@ -14,4 +14,4 @@ Write a program that simply outputs which cats have hats at the end.
 
 This took me a day to make.
 <br>
-![My solution](/cAtSwItHhAtS2.PNG)
+![My solution](cAtSwItHhAtS2.PNG)
