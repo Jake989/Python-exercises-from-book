@@ -15,3 +15,5 @@ Write a program that simply outputs which cats have hats at the end.
 This took me 2 days.
 
 Now how do I add pictures again... umm
+<br>
+![cAtSwItHhAtS.png]
