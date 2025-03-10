@@ -16,4 +16,4 @@ This took me 2 days.
 
 Now how do I add pictures again... umm
 <br>
-![cAtSwItHhAtS.png]
+![My Solution](Python-exercises-from-book/Cats With Hats/cAtSwItHhAtS.png)
