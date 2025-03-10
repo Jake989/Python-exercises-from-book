@@ -14,4 +14,4 @@ Write a program that simply outputs which cats have hats at the end.
 
 This took me a day to make.
 <br>
-![My solution](Python-exercises-from-book/cats-with-hats./catsWithHats.png)
+![My solution](cats-with-hats./cAtSwItHhAtS2.PNG)
