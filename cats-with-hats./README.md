@@ -16,4 +16,6 @@ This took me a day to make.
 <br>
 ![My solution](cAtSwItHhAtS2.PNG)
 
-Haha, the result were hopping or rather, exponent numbers.
+Haha, the result were perfect squares.
+
+FIN.
