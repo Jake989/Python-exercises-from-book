@@ -1,2 +1,2 @@
-# Python-exercises-from-book
-A repository for python practice exercises I do
+# Python-exercises
+A repository to put the solutions to python practice exercises I do
