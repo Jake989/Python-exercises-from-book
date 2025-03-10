@@ -1,5 +1,5 @@
 # 9.9 - Challenge: Cats With hats
-#Solution
+<h2>Solution </h2>
 
 
 You have 100 cats.
